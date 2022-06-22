@@ -1,0 +1,19 @@
+TITLE: Minesweeper
+GAME_OVER: Game Over!
+VICTORY: Victory!
+GAME: Game
+NEW_GAME: New Game
+HIGHSCORES: Highscores
+SETTINGS: Settings
+EXIT: Exit
+X_NUMBER: Number of fields (horizontally)
+Y_NUMBER: Number of fields (vertically)
+MINES_NUMBER: Number of mines
+HELP: Help
+ABOUT: About game
+AUTHOR: Author
+HIGHSCORE_COMM: Congratulations! Your time is one of ten best for this map! Enter your name:
+HIGHSCORE_TITLE: Gratulacje!
+MINES: mines
+NO_HIGHSCORE: There are no highscores yet!
+ERROR: Data invalid

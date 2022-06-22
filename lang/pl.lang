@@ -1,0 +1,19 @@
+TITLE: Saper
+GAME_OVER: Koniec gry!
+VICTORY: Wygrana!
+GAME: Gra
+NEW_GAME: Nowa gra
+HIGHSCORES: Najlepsze wyniki
+SETTINGS: Ustawienia
+EXIT: Wyjście
+X_NUMBER: Liczba pól (poziomo)
+Y_NUMBER: Liczba pól (pionowo)
+MINES_NUMBER: Liczba min
+HELP: Pomoc
+ABOUT: O grze
+AUTHOR: Autor
+HIGHSCORE_COMM: Gratulacje! Twój czas mieści się w dziesiątce najlepszych dla tej mapy! Podaj swoje imię:
+HIGHSCORE_TITLE: Gratulacje!
+MINES: min
+NO_HIGHSCORE: Nie ma jeszcze najlepszych wyników!
+ERROR: Niepoprawne dane
